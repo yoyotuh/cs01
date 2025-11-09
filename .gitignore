@@ -1,4 +1,7 @@
 
 markdown/
+docx/
+images/
+output/
 *.py
 *.pages
